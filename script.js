@@ -7,6 +7,7 @@ const alunos = [
   ["Francilene", 7, 8, 9, 10]
 ];
 
+
 window.onload = function(e) {
 
   const grava = document.getElementById("gravar");
